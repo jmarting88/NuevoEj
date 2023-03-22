@@ -1,0 +1,25 @@
+PARADIGMAS
+
+POO: (funciones = metodos, parametros = atributos)
+	c/obj tiene:
+		-Funcionalidad = metodos (Iniciar Sesion, Editar perfil, etc)
+		-Datos = atributos (Nombre, Apellido, Contraseña, etc)
+	
+	Clases:
+		-Usamos las clases para crear objetos(instanciar)
+		-Instanciar : crear un objeto a través de una clase
+		-Ej : Class User ("molde" para crear users)
+		
+
+Pilares de la POO : Abstraccion, Encapsulamiento, Poliformismo, Herencia
+
+			-Abstraccion : atributos y metodos
+			-Encapsulamiento : seguruidad y comunicacion entre objetos
+			-Polimorfismo : darle varias ordenes para un mismo obj. (notificar : web, slack, correo)
+			-Herencia : aprovechar clases para generar clases "Hijas" para crear nuevas clases con atributos de la clase "padre"
+
+
+			
+			
+
+		
